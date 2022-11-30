@@ -32,7 +32,7 @@ header ul {
   justify-content: space-between;
   align-items: center;
   gap: 4em;
-  
+
   list-style: none;
   font-size: 1.875em;
   padding: 1em 0;
@@ -75,14 +75,14 @@ main section:nth-of-type(1) {
   margin-bottom: 3.5625em;
 }
 
-main section h2 {
+main section:nth-of-type(1) h2 {
   color: #F7F7F7;
   margin-bottom: 1em;
   font-size: 3em;
   text-transform: uppercase;
 }
 
-main section p {
+main section:nth-of-type(1) p {
   font-size: 1.875em;
   color: black;
 }
